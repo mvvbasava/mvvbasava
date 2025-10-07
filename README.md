@@ -8,12 +8,12 @@
 <img src="https://play-lh.googleusercontent.com/iOusb3YyFsMnivWQ-KyktQVxvwrUiMdJ1yU9s_nsAeI4drZ7X23hV83ZhqIfOoeHoewK=w240-h480-rw" srcset="https://play-lh.googleusercontent.com/iOusb3YyFsMnivWQ-KyktQVxvwrUiMdJ1yU9s_nsAeI4drZ7X23hV83ZhqIfOoeHoewK=w480-h960-rw 2x" class="T75of nm4vBd arM4bb" aria-hidden="true" alt="Icon image" itemprop="image" data-iml="267.19999998807907" style="max-width: 30px; height: 30px; margin: 0px; width: 30px;" data-atf="true"> https://play.google.com/store/apps/details?id=com.ford.fordpass
 
 ## Skills and Experience
-- <span style="font-size: 20px;">**Mobile Development**</span>: <span style="font-size: 14px;">Kotlin, Java, Jetpack Compose, Jetpack Libraries, Android NDK.</span>
-- <span style="font-size: 20px;">**Async & Data**</span>: <span style="font-size: 14px;">MVVM, MVI, MVP, Clean Architecture, SOLID.</span>
-- <span style="font-size: 20px;">**Dependency Injection**</span>: <span style="font-size: 14px;">Coroutines, Flows (StateFlow/SharedFlow), Room, Retrofit.</span>
-- <span style="font-size: 20px;">**Testing & Quality**</span>: <span style="font-size: 14px;">Hilt, Dagger2.</span>
-- <span style="font-size: 20px;">**Mobile Development**</span>: <span style="font-size: 14px;">JUnit, Espresso, MockK, OkHttp MockWebServer.</span>
-- <span style="font-size: 20px;">**Performance & Security**</span>: <span style="font-size: 14px;">Macrobenchmark, Perfetto, Keystore, OAuth2/JWT.</span>
+- <span style="font-size: 20px;"> 📱 **Mobile Development**</span>: <span style="font-size: 14px;">Kotlin, Java, Jetpack Compose, Jetpack Libraries, Android NDK.</span>
+- <span style="font-size: 20px;"> 🏛️ **Architecture & Patterns**</span>: <span style="font-size: 14px;">MVVM, MVI, MVP, Clean Architecture, SOLID.</span>
+- <span style="font-size: 20px;"> 🧵 **Async & Data**</span>: <span style="font-size: 14px;">Coroutines, Flows (StateFlow/SharedFlow), Room, Retrofit.</span>
+- <span style="font-size: 20px;"> 🩼 **Dependency Injection**</span>: <span style="font-size: 14px;">Hilt, Dagger2.</span>
+- <span style="font-size: 20px;"> 🧪 **Testing & Quality**</span>: <span style="font-size: 14px;">JUnit, Espresso, MockK, OkHttp MockWebServer.</span>
+- <span style="font-size: 20px;"> 🔒 **Performance & Security**</span>: <span style="font-size: 14px;">Macrobenchmark, Perfetto, Keystore, OAuth2/JWT.</span>
 
 ## Examples of Work
 <img src="https://media.tenor.com/s3I_IAym7_EAAAAj/rick-and-morty.gif" width="192"/>
