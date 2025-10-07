@@ -8,12 +8,21 @@
 <img src="https://play-lh.googleusercontent.com/iOusb3YyFsMnivWQ-KyktQVxvwrUiMdJ1yU9s_nsAeI4drZ7X23hV83ZhqIfOoeHoewK=w240-h480-rw" srcset="https://play-lh.googleusercontent.com/iOusb3YyFsMnivWQ-KyktQVxvwrUiMdJ1yU9s_nsAeI4drZ7X23hV83ZhqIfOoeHoewK=w480-h960-rw 2x" class="T75of nm4vBd arM4bb" aria-hidden="true" alt="Icon image" itemprop="image" data-iml="267.19999998807907" style="max-width: 30px; height: 30px; margin: 0px; width: 30px;" data-atf="true"> https://play.google.com/store/apps/details?id=com.ford.fordpass
 
 ## Skills and Experience
-- <span style="font-size: 20px;"> 📱 **Mobile Development**</span>: <span style="font-size: 14px;">Kotlin, Java, Jetpack Compose, Jetpack Libraries, Android NDK.</span>
-- <span style="font-size: 20px;"> 🏛️ **Architecture & Patterns**</span>: <span style="font-size: 14px;">MVVM, MVI, MVP, Clean Architecture, SOLID.</span>
-- <span style="font-size: 20px;"> 🧵 **Async & Data**</span>: <span style="font-size: 14px;">Coroutines, Flows (StateFlow/SharedFlow), Room, Retrofit.</span>
-- <span style="font-size: 20px;"> 🩼 **Dependency Injection**</span>: <span style="font-size: 14px;">Hilt, Dagger2.</span>
-- <span style="font-size: 20px;"> 🧪 **Testing & Quality**</span>: <span style="font-size: 14px;">JUnit, Espresso, MockK, OkHttp MockWebServer.</span>
-- <span style="font-size: 20px;"> 🔒 **Performance & Security**</span>: <span style="font-size: 14px;">Macrobenchmark, Perfetto, Keystore, OAuth2/JWT.</span>
+- <span style="font-size: 20px;"> 📱 **Mobile Development**</span>: <span style="font-size: 14px;">Kotlin, Java, Jetpack Compose, Jetpack Libraries, Android NDK, Material Design, Responsive UI/UX, Accessibility Standards.</span>
+- <span style="font-size: 20px;"> 🏛️ **Architecture & Patterns**</span>: <span style="font-size: 14px;">MVVM, MVI, MVP, Clean Architecture, SOLID Principles, Repository Pattern.</span>
+- <span style="font-size: 20px;"> 🧵 **Async & Data**</span>: <span style="font-size: 14px;">Kotlin Coroutines, Kotlin Flows (StateFlow / SharedFlow), LiveData.</span>
+- <span style="font-size: 20px;"> 🧩 **Android Jetpack Components**</span>: <span style="font-size: 14px;">LiveData, ViewModel, Room, Data Binding, Work Manager, Navigation, Lifecycle, Paging, ViewBinding.</span>
+- <span style="font-size: 20px;"> 🧰 **Android Libraries**</span>: <span style="font-size: 14px;">Retrofit, OkHttp, Glide, Hilt, Dagger2, Koin, Gson, Picasso, Timber.</span>
+- <span style="font-size: 20px;"> 🔌 **API technologies**</span>: <span style="font-size: 14px;">RESTful APIs, GraphQL (Queries, Mutations, Subscriptions), Apollo Client, JSON Parsing, WebSockets.</span>
+- <span style="font-size: 20px;"> ☁️ **Cloud & Backend Integration**</span>: <span style="font-size: 14px;">Firebase (Auth, Firestore, FCM), AWS (S3, AppSync, Lambda), Cloud Messaging, GraphQL Subscriptions for Realtime Updates.</span>
+- <span style="font-size: 20px;"> 🧠 **AI/ML & LLM Exposure**</span>: <span style="font-size: 14px;">Familiar with OpenAI, integrated AI-powered chat and recommendation features; prompt engineering for contextual in-app assistants.</span>
+- <span style="font-size: 20px;"> ⚙️ **AI-Assisted Development Tools**</span>: <span style="font-size: 14px;">ChatGPT, GitHub Copilot, Amazon Q, Claude, Cursor — leveraged for code generation, refactoring, testing automation, and documentation acceleration.</span>
+- <span style="font-size: 20px;"> 🧭 **Agile & Collaboration**</span>: <span style="font-size: 14px;">Agile/Scrum methodologies, Jira, Trello, Rally, Confluence, Sprint Planning, Cross-functional Communication.</span>
+- <span style="font-size: 20px;"> 🧱 **Software Development Practices**</span>: <span style="font-size: 14px;">Git, GitHub, GitLab, Bitbucket, Code Reviews, CI/CD (GitHub Actions, Jenkins), Branching Strategies, Peer Mentorship.</span>
+- <span style="font-size: 20px;"> 🧪 **Testing & Quality**</span>: <span style="font-size: 14px;">JUnit, Espresso, MockK, OkHttp MockWebServer, Unit & Instrumentation Testing, Automated Test Pipelines.</span>
+- <span style="font-size: 20px;"> 🔒 **Performance & Stability & Security**</span>: <span style="font-size: 14px;">Macrobenchmark, Perfetto, Android Keystore, OAuth2, JWT, Secure Storage, Crashlytics, LeakCanary, ANR Profiling.</span>
+- <span style="font-size: 20px;"> 📊 **Analytics & Monitoring**</span>: <span style="font-size: 14px;">Firebase Analytics, Google Analytics, App Performance Profiler, Performance Traces, Crashlytics Dashboards.</span>
+- <span style="font-size: 20px;"> 🎯 **Soft Skills**</span>: <span style="font-size: 14px;">Analytical problem-solving, attention to detail, strong communication, leadership in cross-functional teams, mentoring developers.</span>
 
 ## Examples of Work
 <img src="https://media.tenor.com/s3I_IAym7_EAAAAj/rick-and-morty.gif" width="192"/>
